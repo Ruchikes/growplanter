@@ -1,1 +1,1 @@
-# growplanter.github.io
+# growplanter
